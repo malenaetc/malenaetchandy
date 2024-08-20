@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(147, 120, 172);
+    background-position: center center;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+h1{
+    color:rgb(241, 217, 217); 
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+h2{
+    color:whitesmoke;
+
+}
+
+h5 {
+    color:rgb(92, 35, 73);
+    margin-bottom: 30px;
+}
+
+p{
+    color:whitesmoke;
+    font-style: italic;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+img{
+    border-radius: 20%;
+    border-width: 3px;
+    border-color: rgb(233, 212, 240);
+    border-style: groove;
+    margin-top: 3%;
+}
+
+#exp{
+    margin: auto;
+    font-size: larger;
+    font-style: oblique;
+}
+
+#contacto{
+    font-size: large;
+    margin: 4%; 
+}
